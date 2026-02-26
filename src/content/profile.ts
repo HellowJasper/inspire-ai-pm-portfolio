@@ -205,8 +205,8 @@ export const profileContent: Record<Locale, ProfileContent> = {
       detail: {
         phone: '+86 183-3987-1162',
         email: '1938921378@qq.com',
-        githubLabel: 'GitHub（待补充）',
-        githubUrl: 'https://github.com/your-github-id',
+        githubLabel: 'GitHub（HellowJasper）',
+        githubUrl: 'https://github.com/HellowJasper',
         availability: '可在 48 小时内完成额外作业迭代与更新。',
       },
     },
@@ -420,8 +420,8 @@ export const profileContent: Record<Locale, ProfileContent> = {
       detail: {
         phone: '+86 183-3987-1162',
         email: '1938921378@qq.com',
-        githubLabel: 'GitHub (to be updated)',
-        githubUrl: 'https://github.com/your-github-id',
+        githubLabel: 'GitHub (HellowJasper)',
+        githubUrl: 'https://github.com/HellowJasper',
         availability: 'Available for additional assignment iteration within 48 hours.',
       },
     },
